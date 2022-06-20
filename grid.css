@@ -52,6 +52,7 @@ body{
         flex-direction: column;
     }
     .box2{
+        top:auto;
         margin-top: 30px;
     }
     .text{
